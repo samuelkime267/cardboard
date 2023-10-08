@@ -18,7 +18,7 @@ export default function Experience() {
         <Light />
         <CreateBoxElements />
         <CreateFoldingAnimation />
-        <CreateControls />
+        {/* <CreateControls /> */}
       </Canvas>
     </div>
   );
